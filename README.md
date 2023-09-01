@@ -63,11 +63,11 @@ yarn dev
 ## :rocket: Used libraries
 
 - [Stitches](https://stitches.dev/)
-- [Phosphor-Icons](https://phosphoricons.com/)
-- [RadixUI](https://www.radix-ui.com/)
+<!-- - [Phosphor-Icons](https://phosphoricons.com/) -->
+<!-- - [RadixUI](https://www.radix-ui.com/) -->
 - [Axios](https://github.com/axios/axios)
 - [Stripe](https://stripe.com/br)
-- [Use Shopping Cart](https://useshoppingcart.com/docs)
+<!-- - [Use Shopping Cart](https://useshoppingcart.com/docs) -->
 - [Swiper](https://swiperjs.com/)
 
 ## :man_technologist: Author
