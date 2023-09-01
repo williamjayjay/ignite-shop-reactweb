@@ -3,20 +3,20 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/williamjayjay/Ignite-Shop">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/williamjayjay/ignite-shop-reactweb">
 
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/williamjayjay/Ignite-Shop" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/williamjayjay/ignite-shop-reactweb" />
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/williamjayjay/Ignite-Shop">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/williamjayjay/ignite-shop-reactweb">
   
   <a href="https://github.com/williamjayjay/Github-Blog/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/williamjayjay/Ignite-Shop">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/williamjayjay/ignite-shop-reactweb">
   </a>
     
-   <img alt="License" src="https://img.shields.io/github/license/williamjayjay/Ignite-Shop">
+   <img alt="License" src="https://img.shields.io/github/license/williamjayjay/ignite-shop-reactweb">
 
-   <a href="https://github.com/williamjayjay/Ignite-Shop/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/williamjayjay/Ignite-Shop?style=social">
+   <a href="https://github.com/williamjayjay/ignite-shop-reactweb/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/williamjayjay/ignite-shop-reactweb?style=social">
   </a>
 </p>
 
@@ -48,6 +48,16 @@
 
 ```bash
 git clone https://github.com/williamjayjay/ignite-shop-reactweb
+```
+
+2- Install the dependencies
+```bash
+yarn
+```
+
+3- Run web application
+```bash
+yarn dev
 ```
 
 ## :rocket: Used libraries
