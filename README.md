@@ -1,38 +1,86 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+    <img alt="Github-Blog" title="" src=".github/logo.svg" />
+</h1>
 
-## Getting Started
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/williamjayjay/Ignite-Shop">
 
-First, run the development server:
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/williamjayjay/Ignite-Shop" />
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/williamjayjay/Ignite-Shop">
+  
+  <a href="https://github.com/williamjayjay/Github-Blog/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/williamjayjay/Ignite-Shop">
+  </a>
+    
+   <img alt="License" src="https://img.shields.io/github/license/williamjayjay/Ignite-Shop">
+
+   <a href="https://github.com/williamjayjay/Ignite-Shop/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/williamjayjay/Ignite-Shop?style=social">
+  </a>
+</p>
+
+<p>
+  <img src=".github/cover.png" alt="cover ignite-shop" />
+</p>
+
+<h4 align="center">
+🚀 Aplicação em andamento 🚀
+</h4>
+
+<p align="center">
+  <a href="#page_with_curl-project">📃 Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">ℹ️ How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-used-libraries">🚀 Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#man_technologist-author">👨‍💻 Author</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+## Projeto Ignite Shop
+### Web
+
+<p align="center">
+  <img alt="Animated Web Demonstration" title="#Web" src=".github/demo_ignite_bg.gif" width="100%">
+</p>
+
+## :information_source: How To Use
+
+1- Clone the repository
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+git clone https://github.com/williamjayjay/ignite-shop-reactweb
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## :rocket: Used libraries
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+- [Stitches](https://stitches.dev/)
+- [Phosphor-Icons](https://phosphoricons.com/)
+- [RadixUI](https://www.radix-ui.com/)
+- [Axios](https://github.com/axios/axios)
+- [Stripe](https://stripe.com/br)
+- [Use Shopping Cart](https://useshoppingcart.com/docs)
+- [Swiper](https://swiperjs.com/)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## :man_technologist: Author
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<div align="center">
+ <p>Developed by William Gomes</p>
+<div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="http://github.com/williamjayjay/">
+        <img src="https://avatars.githubusercontent.com/u/52439569?v=4" width="75px;" alt="William Gomes"/>
+        <br />
+        <sub>
+          <b>William Gomes</b>
+        </sub>
+       </a>
+       </td>
+  </tr>
+</table>
+</div>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+[![Linkedin Badge](https://img.shields.io/badge/-William%20Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-gomes-aab694149/)](https://www.linkedin.com/in/william-gomes-aab694149/)
 
-## Learn More
+</div>
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
